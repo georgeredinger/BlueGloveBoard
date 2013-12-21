@@ -795,6 +795,14 @@ In this library the device names are the same as the pin names of the symbols, t
 <sheets>
 <sheet>
 <plain>
+<text x="40.64" y="-33.02" size="1.778" layer="91">What do I need to connect to this for programming?</text>
+<text x="40.64" y="-33.02" size="1.778" layer="91">What do I need to connect to this for programming?</text>
+<text x="40.64" y="-33.02" size="1.778" layer="91">What do I need to connect to this for programming?</text>
+<text x="-20.32" y="-10.16" size="1.778" layer="91">Are I2C pins fixed or programmable on this ARM?</text>
+<text x="124.46" y="45.72" size="1.778" layer="91">Layout rules for RF signals?</text>
+<text x="124.46" y="45.72" size="1.778" layer="91">Layout rules for RF signals?</text>
+<text x="124.46" y="45.72" size="1.778" layer="91">Layout rules for RF signals?</text>
+<text x="-25.4" y="63.5" size="1.778" layer="91">Bypass caps?</text>
 </plain>
 <instances>
 <instance part="U$1" gate="G$1" x="43.18" y="7.62"/>
